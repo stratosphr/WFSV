@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: args4j.jar
+Main-Class: Main
+

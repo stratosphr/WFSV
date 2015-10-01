@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="WFSV:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WFSV</output-path>
+    <root id="root">
+      <element id="archive" name="WFSV.jar">
+        <element id="module-output" name="WFSV" />
+      </element>
+      <element id="library" level="project" name="args4j" />
+    </root>
+  </artifact>
+</component>
